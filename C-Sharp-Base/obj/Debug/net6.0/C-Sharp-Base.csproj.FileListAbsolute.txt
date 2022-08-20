@@ -1,0 +1,15 @@
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\bin\Debug\net6.0\C-Sharp-Base.exe
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\bin\Debug\net6.0\C-Sharp-Base.deps.json
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\bin\Debug\net6.0\C-Sharp-Base.runtimeconfig.json
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\bin\Debug\net6.0\C-Sharp-Base.dll
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\bin\Debug\net6.0\C-Sharp-Base.pdb
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.dll
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\refint\C-Sharp-Base.dll
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.pdb
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\C-Sharp-Base.genruntimeconfig.cache
+C:\Users\mmfazrin\RiderProjects\C-Sharp-Base\C-Sharp-Base\obj\Debug\net6.0\ref\C-Sharp-Base.dll
